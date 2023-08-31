@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maamoun</h1>
-<h3 align="center">Native iOS Developer, Apple Certified user for Swift, bachelor of computer science, Graduate of ITI and have good experience with iOS and android development</h3>
+<h3 align="center">Native iOS Developer using Swift and Objectove-C, Apple Certified user for Swift, bachelor of computer science, Graduate of ITI and have good experience android development using java and kotlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaamoun74&label=Profile%20views&color=0e75b6&style=flat" alt="amaamoun74" /> </p>
 
